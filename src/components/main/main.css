@@ -1,0 +1,47 @@
+body, .App, .main {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 10px 2fr 10px 1fr;
+    grid-template-areas: "section divider1 article divider2 aside";
+    gap: 0; /* убираем пробелы */
+    height: auto;
+    width: 100%;
+}
+
+.divider1, .divider2 {
+    background-color: #89AC76; /* голубой, можешь поменять */
+    width: 10px;
+}
+
+.divider1 {
+    grid-area: divider1;
+}
+
+.divider2 {
+    grid-area: divider2;
+}
+
+.section {
+    background-color: #bdecb6;
+    grid-area: section;
+    width: 95%;
+}
+
+.article {
+    background-color: #98fb98;
+    grid-area: article;
+    border-left: black solid 5px;
+    border-right: black solid 5px;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+.aside {
+    background-color: #bdecb6;
+    grid-area: aside;
+    width: 5%;
+}

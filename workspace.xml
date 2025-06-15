@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8c4e360-3d5d-4c2c-9284-49a95c8169cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/articlecomps/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/articlecomps/contacts/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/articlecomps/er404/er404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/articlecomps/news/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/head/head.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/head/head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/main/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/main/mcomps/article/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/main/mcomps/aside/aside.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/components/main/mcomps/section/section.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astrology/src/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/astrology/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/astrology/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/astrology/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/astrology/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/astrology/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astrology/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/astrology" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hB153wA23zbb8uLOqXhzZgUu0Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/astrology/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8c4e360-3d5d-4c2c-9284-49a95c8169cb" name="Changes" comment="" />
+      <created>1717052469862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717052469862</updated>
+      <workItem from="1717052470952" duration="4647000" />
+      <workItem from="1747936511362" duration="490000" />
+      <workItem from="1747941206666" duration="1452000" />
+      <workItem from="1748021308329" duration="2503000" />
+      <workItem from="1748031597860" duration="3094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
